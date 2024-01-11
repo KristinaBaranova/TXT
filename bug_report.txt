@@ -1,0 +1,19 @@
+ID:91
+Date: 18.09.2023
+Severity: Minor
+Title: The Page Control is in the previous state in the "Final study" Section when the Final study section is reopened	
+Precondition:
+1. The app is downloaded
+2. The app is launched
+3. All ""Crypto tests"" are passed 
+4. The ""Final study"" Section is opened
+STR:
+1. Go to any Screen except the first
+2. Tap the Close Button
+3. Open any Action Card
+4. Go to the ""Test"" Screen
+3. Pass crypto test
+4. Tap [Go to achievements] Button 
+
+AR: The Page Control is in the previous state	
+ER: The page control is in its initial state and corresponds to the screen sequence number
