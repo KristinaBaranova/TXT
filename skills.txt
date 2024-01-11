@@ -1,0 +1,34 @@
+Theory:
+- виды
+- уровни
+- документация
+
+ClientServerArchitecture:
+- клиент
+- сервер
+- протоколы
+
+TestDesignTechniques:
+- классы эквивалентности
+- граничные значения
+- попарное тестирование
+- таблица принятия решений
+
+Tools:
+- DevTools
+- Postman
+- Charles
+- Fiddler
+- Git
+- Android Studio
+- Jmeter
+
+SQL:
+- Create
+- Delete
+- Drop
+- Insert Into
+- Select
+- From
+- Where
+- Join
